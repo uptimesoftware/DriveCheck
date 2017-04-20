@@ -1,0 +1,1 @@
+%MIBDIRS%\..\scripts\erdcloader.exe -x %MIBDIRS%\..\xml\DriveCheck.xml

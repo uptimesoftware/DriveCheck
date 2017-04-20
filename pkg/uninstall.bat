@@ -1,0 +1,1 @@
+%MIBDIRS%\..\scripts\erdcdeleter.exe -n DriveCheck
